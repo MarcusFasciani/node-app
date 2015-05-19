@@ -7,4 +7,4 @@ deploy:
     secure: b04697a1-7151-4a19-9a4c-2749d0a9aa5c
   app: lit-dusk-5388
   on:
-    repo: danielfs/node-app
+    repo: MarcusFasciani/node-app
